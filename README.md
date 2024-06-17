@@ -1,4 +1,3 @@
 Olá 👋🏻
-• 👩🏼‍💻 HTML | CSS | JavaScript ...
 • 📖 👩🏼‍💻
 
