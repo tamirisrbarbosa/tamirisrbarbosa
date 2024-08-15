@@ -1,2 +1,2 @@
-Olá 👋🏻 📖 👩🏼‍💻
-• Cursando Análise e Desenvolvimento de Sistemas 🎯
+
+• Análise e Desenvolvimento de Sistemas 🎯
