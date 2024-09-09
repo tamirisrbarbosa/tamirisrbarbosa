@@ -10,6 +10,6 @@
 ---
 
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) [![](https://visitcount.itsvg.in/api?id=tamirisrbarbosa&icon=3&color=12)](https://visitcount.itsvg.in)
+ [![](https://visitcount.itsvg.in/api?id=tamirisrbarbosa&icon=3&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
