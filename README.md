@@ -4,7 +4,7 @@
 ##
 
 <div align="center">
-  <img src="Asuna.gif" alt="Uma garota ruiva, com fones vermelhos, tomando algo em sua xícara">
+  <img src="Asuna_Gif.webp" alt="Uma garota ruiva, com fones vermelhos, tomando algo em sua xícara">
 </div>
 
 ##
