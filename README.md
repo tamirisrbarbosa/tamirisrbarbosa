@@ -15,11 +15,6 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
               
-- name: generate-snake-game-from-github-contribution-grid
-
-
-              
-  uses: Platane/snk@v3.2.0
   
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
