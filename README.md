@@ -2,10 +2,15 @@
 • Cursando Análise e Desenvolvimento de Sistemas 🎯<br>• Formada em Letras 📚
 
 
+<br>
 
-![](https://github-readme-stats.vercel.app/api?username=tamirisrbarbosa&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=false)  
+<div align="center"> 
+ 
+![](https://github-readme-stats.vercel.app/api?username=tamirisrbarbosa&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=false) <br> 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tamirisrbarbosa&theme=shadow_red&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tamirisrbarbosa&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+</div>
 
 ---
 
