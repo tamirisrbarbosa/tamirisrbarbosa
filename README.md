@@ -42,9 +42,3 @@
   <source media="(prefers-color-scheme: light)" srcset="github-user-contribution.svg" />
   <img alt="GitHub snake animation" src="github-user-contribution.svg" />
 </picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-user-contribution.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-user-contribution.svg" />
-  <img alt="GitHub snake animation" src="github-user-contribution.svg" />
-</picture>
